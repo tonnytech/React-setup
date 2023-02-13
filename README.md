@@ -90,8 +90,8 @@ Example commands:
 
 ```sh
   cd <desired-folder>
-  git clone https://github.com/ram1117/math-magicians.git
-  cd math-magicians
+  git clone https://github.com/teitonny/Math-Magicians.git
+  cd Math-Magicians
 ```
 
 ### Install

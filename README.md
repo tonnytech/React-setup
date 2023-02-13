@@ -152,7 +152,7 @@ The above command produces build files that can be deployed using Github pages o
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Ram Kumar Karuppusamy**
+👤 **Tonny Tei**
 
 - GitHub: [@teitonny](https://github.com/teitonny)
 - Twitter: [@teitonny](https://twitter.com/teitonny)

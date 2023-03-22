@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App" />
+    <p className="App">when you focus on progress, not perfection </p>
   );
 }
 
